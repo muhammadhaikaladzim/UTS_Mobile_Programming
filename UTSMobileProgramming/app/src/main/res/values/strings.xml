@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">UTS Mobile Programming</string>
+    <string name="email_not_valid">Email tidak valid</string>
+    <string name="pass_length_less_then_8">Password kurang dari 8 karakter</string>
+</resources>
